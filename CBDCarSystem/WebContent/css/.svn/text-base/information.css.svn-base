@@ -1,0 +1,55 @@
+@CHARSET "UTF-8";
+
+#row11{
+	height:10%;
+	background-color:#7BD54F;
+}
+#row12{
+	height:80%;
+}
+#row13{
+	height:10%;
+	margin-left: 37%;
+	margin-top: 1%;
+}
+#biaoti{
+	font-size: 20px;
+	font-weight: 500;
+	margin-left: 42%;
+	margin-top: 1%;
+}
+#fen{
+	margin-left: 40%;
+	margin-top: 0.7%;
+}
+#userInfo{
+	width: 100%;
+	text-align: center;
+	font-size: 24px;
+}
+tr{
+	height: 50px;
+	line-height: 10px;
+	font-size: 20px;
+}
+.lie{
+	font-size: 16px;
+	padding-top: 0.6%;
+}
+
+#nei11{
+	
+}
+#zhaozu{
+	font-size: 24px;
+	margin-left: 15%;
+    color:red;
+}
+#zuling{
+	font-size: 24px;
+	margin-left: 15%;
+  color: white;
+}
+#btn1{
+	margin-left: 2%;
+}

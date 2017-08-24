@@ -1,0 +1,70 @@
+@CHARSET "UTF-8";
+#row11{
+	height: 20%;
+}
+#row12{
+	height: 20%;
+}
+#row13{
+	height: 20%;
+}
+#row14{
+	height: 20%;
+}
+#row15{
+	height: 20%;
+}
+#biaoti{
+	font-size: 28px;
+	font-weight: 500px;
+	margin-left: 33%;
+	margin-top: 3%;
+}
+#nei12{
+	height: 100%;
+}
+#nei13{
+	height: 100%;
+}
+#nei14{
+	height: 100%;
+}
+#nei15{
+	height: 100%;
+}
+#nei16{
+	height: 100%;
+}
+#nei17{
+	height: 100%;
+}
+.qianti{
+	font-size: 22px;
+	font-weight: 500;
+	margin-left: 60%;
+	margin-top: 7%;
+}
+#oldPwd{
+	width: 70%;
+	margin-top: 7%;
+	margin-left: -10%;
+}
+#newPwd{
+	width: 70%;
+	margin-top: 7%;
+	margin-left: -10%;
+}
+#userPwd{
+	width: 70%;
+	margin-top: 7%;
+	margin-left: -10%;
+}
+.tishi{
+	margin-left: 15%;
+	margin-top: 2%;
+}
+#btn{
+	width: 12%;
+	margin-left: 38%;
+	margin-top: 4%;
+}

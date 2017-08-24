@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+#total{
+	width:100%;
+	height:100%;
+}
+#row1{
+	height: 7%;
+}
+#row2{
+	height: 68%;
+}
+#row3{
+	height: 7%;
+	padding-left: 42%;
+	padding-top: 1%;
+}
+#row4{
+	height: 6%;
+}
+#biaoti{
+	margin-left: 40%;
+	margin-top: 0.5%;
+}
+tr{
+	height: 50px;
+	text-align: center;
+}
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/WebContent/jsp/manager/complain
+END
+noComplaintInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/WebContent/jsp/manager/complain/noComplaintInfo.jsp
+END
+complaintmanager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/WebContent/jsp/manager/complain/complaintmanager.jsp
+END
+showComplaintInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/WebContent/jsp/manager/complain/showComplaintInfo.jsp
+END

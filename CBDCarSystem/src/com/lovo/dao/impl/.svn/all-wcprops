@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/impl
+END
+WantDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/impl/WantDaoImpl.java
+END
+ManagerDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/impl/ManagerDaoImpl.java
+END
+CompanyCarDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/impl/CompanyCarDaoImpl.java
+END
+ContractDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/impl/ContractDaoImpl.java
+END
+ParkDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/impl/ParkDaoImpl.java
+END
+UserDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/impl/UserDaoImpl.java
+END
+LandLordDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/impl/LandLordDaoImpl.java
+END
+EnterpriseDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/impl/EnterpriseDaoImpl.java
+END
+LogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/impl/LogDaoImpl.java
+END
+DealDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/impl/DealDaoImpl.java
+END
+OutContractDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/impl/OutContractDaoImpl.java
+END
+ComplaintDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/impl/ComplaintDaoImpl.java
+END
+RentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/impl/RentDaoImpl.java
+END

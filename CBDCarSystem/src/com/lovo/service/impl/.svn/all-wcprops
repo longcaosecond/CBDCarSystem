@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/service/impl
+END
+CompanyCarServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/service/impl/CompanyCarServiceImpl.java
+END
+ContractServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/service/impl/ContractServiceImpl.java
+END
+ParkServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/service/impl/ParkServiceImpl.java
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/service/impl/UserServiceImpl.java
+END
+EnterpriseServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/service/impl/EnterpriseServiceImpl.java
+END
+LogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/service/impl/LogServiceImpl.java
+END
+LandLordServiceImple.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/service/impl/LandLordServiceImple.java
+END
+DealServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/service/impl/DealServiceImpl.java
+END
+OutContractServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/service/impl/OutContractServiceImpl.java
+END
+ComplaintServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/service/impl/ComplaintServiceImpl.java
+END
+RentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/service/impl/RentServiceImpl.java
+END
+WantServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/service/impl/WantServiceImpl.java
+END
+ManagerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/service/impl/ManagerServiceImpl.java
+END

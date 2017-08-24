@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+@CHARSET "UTF-8";
+#nei11{
+	height: 10%;
+	background-color:#7BD54F;
+}
+#lie1{
+	height:100%;
+}
+#lie2{
+	height:100%;
+}
+.tiaozhuan{
+	margin-left: 10%;
+}
+#lianjie1{
+	font-size: 28px;
+	color:white;
+}
+#lianjie2{
+	font-size: 28px;
+	color:red;
+}
+#row21{
+	height: 25%;
+}
+#lie3{
+	height:100%;
+}
+#lie4{
+	height:100%;
+}
+#fangtu{
+	width:75%;
+	height: 100%;
+	margin-left: 20%;
+}
+#tupian{
+	width: 100%;
+	height: 100%;
+}
+#jingao{
+	font-size: 16px;
+	margin-top: 17%;
+}
+#rowzhan{
+	height: 5%;
+}

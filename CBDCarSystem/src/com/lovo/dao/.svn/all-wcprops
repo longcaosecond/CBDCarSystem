@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao
+END
+CompanyCarDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/CompanyCarDao.java
+END
+ContractDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/ContractDao.java
+END
+ParkDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/ParkDao.java
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/UserDao.java
+END
+LandLordDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/LandLordDao.java
+END
+EnterpriseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/EnterpriseDao.java
+END
+LogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/LogDao.java
+END
+DealDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/DealDao.java
+END
+OutContractDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/OutContractDao.java
+END
+ComplaintDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/ComplaintDao.java
+END
+RentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/RentDao.java
+END
+WantDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/WantDao.java
+END
+ManagerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/dao/ManagerDao.java
+END

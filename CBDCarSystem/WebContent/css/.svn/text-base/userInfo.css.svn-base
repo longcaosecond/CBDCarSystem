@@ -1,0 +1,164 @@
+@CHARSET "UTF-8";
+#total{
+	width: 80%;
+	height: 600px;
+	margin-left:10%;
+	padding: 0px;
+	
+}
+#row1{
+	width: 100%;
+	height: 15%;
+	background-color:#7BD54F;
+	margin-left:0px;
+	padding: 0px;
+}
+#row2{
+	width: 100%;
+	height: 5%;
+	margin-left:0px;
+	padding: 0px;
+}
+#row3{
+	width: 100%;
+	height: 75%;
+	margin-left:0px;
+	padding: 0px;
+}
+#fen11{
+	height:100%;
+}
+#fen12{
+	width:15%;
+	height:100%;
+	
+}
+#fen13{
+	width:15%;
+	height:100%;
+	
+}
+#fen21{
+	background-color: #F5F5F5;
+	height: 100%;
+}
+#fen22{
+	height: 100%;
+}
+#fen23{
+	height: 100%;
+}
+#qian{
+	font-size: 30px;
+	color: white;
+	margin-left: 12%;
+	padding-top: 15%;
+}
+#nei1{
+	width: 60%;
+	height:100%;
+	background-color:#7BD54F;
+	margin-left: 20%;
+}
+.shang{
+	font-size: 18px;
+	color: white;
+}
+.wai{
+	margin-left: 20%;
+	margin-top: 25%;
+}
+#row4{
+	width: 100%;
+	height: 17%;
+	margin:0px;
+	padding: 0px;
+	border-bottom: 1px solid black;
+}
+#nei11{
+	height: 100%;
+	margin:0px;
+	padding: 0px;
+}
+#nei12{
+	height: 100%;
+	margin:0px;
+	padding: 0px;
+}
+#row5{
+	width: 100%;
+	height: 20%;
+	margin-left:0px;
+	padding: 0px;
+}
+#row6{
+	width: 100%;
+	height: 20%;
+	margin-left:0px;
+	padding: 0px;
+}
+#row8{
+	width: 100%;
+	height: 20%;
+	margin-left:0px;
+	padding: 0px;
+}
+#row7{
+	width: 100%;
+	height: 60%;
+	margin-left:0px;
+	padding: 0px;
+}
+
+#hang1{
+	font-size: 20px;
+	font-weight: 600;
+}
+#hang2{
+	font-size: 16px;
+	font-weight: 400;
+}
+#hang3{
+	font-size: 16px;
+	font-weight: 400;
+}
+#hang4{
+	font-size: 16px;
+	font-weight: 400;
+}
+.zuo{
+	margin-left: 21%;
+	margin-top: 15%;
+}
+.zuo1{
+	margin-left: 27%;
+	margin-top: 35%;
+}
+#wellcome{
+	font-size: 28px;
+	margin-left: 20%;
+	margin-top: 10%;
+}
+#userName{
+	font-size: 28px;
+	margin-left: 2%;
+	margin-top: 10%;
+}
+#come{
+	font-size: 24px;
+	margin-left: 20%;
+	margin-top: 10%;
+}
+#showTime{
+	margin-top: 10%;
+	font-size: 20px;
+}
+.shijian{
+	font-size: 20px;
+}
+#zz{
+	font-size: 16px;
+}
+.number{
+	font-size: 16px;
+}

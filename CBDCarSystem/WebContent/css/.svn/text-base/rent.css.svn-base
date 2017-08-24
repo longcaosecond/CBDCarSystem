@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+.inp{
+	width:150px;
+}
+.inpu{
+	width:149px;
+}
+ .pointer{
+	cursor:pointer;
+}

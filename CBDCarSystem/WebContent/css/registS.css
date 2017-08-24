@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+	height:100%;
+	background:#16a085;
+	overflow:hidden;
+	}
+canvas{
+	z-index:-1;
+	position:absolute;
+}
+#contDiv {
+    width: 40%;
+    height: 600px;
+    margin-left: 30%;
+    margin-top:10px;
+    background-color: lightblue;
+    opacity: 0.8;
+}
+.claInfoTitle{
+    height: 40px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 500;
+}
+.control-label{
+    width: 25%;
+    height:30px;
+    font-size: 20px;
+    margin-left: 15%;
+}
+.form-control{
+    width: 35%;
+    height:30px;
+}
+#addBtn{	
+    margin-left: 46%;
+    margin-top: 20px;
+}

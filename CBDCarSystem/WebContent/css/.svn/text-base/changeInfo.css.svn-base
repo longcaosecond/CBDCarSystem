@@ -1,0 +1,179 @@
+@CHARSET "UTF-8";
+#row21{
+	height: 15%;
+}
+#row22{
+	height: 15%;
+}
+#row23{
+	height: 15%;
+}
+#row24{
+	height: 15%;
+}
+#row25{
+	height: 15%;
+}
+#row26{
+	height: 15%;
+}
+#fen31{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#fen32{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#fen41{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#fen42{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#fen51{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#fen52{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#fen61{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#fen62{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#fenxx{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#fen311{
+	height: 100%;
+	margin:0px;
+	padding-top: 6%;
+}
+#fen411{
+	height: 100%;
+	margin:0px;
+	padding-top: 4%;
+}
+#fenxxx{
+	height: 100%;
+	margin:0px;
+	padding-top: 4%;
+}
+#fen511{
+	height: 100%;
+	margin:0px;
+	padding-top: 4%;
+}
+#fen512{
+	height: 100%;
+	margin:0px;
+	padding-top: 4%;
+}
+#fen611{
+	height: 100%;
+	margin:0px;
+	padding-top: 4%;
+}
+#fen612{
+	height: 100%;
+	margin:0px;
+	padding-top: 4%;
+}
+#fen412{
+	height: 100%;
+	margin:0px;
+	padding-top: 4%;
+}
+#fen312{
+	height: 100%;
+	margin:0px;
+	padding-top: 6%;
+}
+#biaoti{
+	font-size: 30px;
+	font-weight: 500px;
+	margin-left: 38%;
+	margin-top: 2%;
+}
+.qianti{
+	font-size: 12px;
+	font-weight: 800;
+}
+#userAccount{
+	font-size:24px;
+	margin-left: 40%;
+	margin-top: 3%;
+}
+#userName{
+	font-size:24px;
+	margin-left: 40%;
+	margin-top: 3%;
+}
+#userCredit{
+	font-size:24px;
+	margin-left: 45%;
+	margin-top: 3%;
+}
+#userNumber{
+	font-size:20px;
+	margin-left: 30%;
+	margin-top: 4%;
+}
+#userDate{
+	font-size:20px;
+	margin-left: 40%;
+	margin-top: 4%;
+}
+#userPhone{
+	width: 50%;
+	margin-top: 2%;
+	margin-left: 30%;
+	
+}
+#userHome{
+	width: 50%;
+	margin-top: 2%;
+	margin-left: 30%;
+	
+}
+#userWork{
+	width: 50%;
+	margin-top: 2%;
+	margin-left: 30%;
+	
+}
+#userEmail{
+	width: 50%;
+	margin-top: 2%;
+	margin-left: 30%;
+	
+}
+.tishi{
+	margin-left: 40%;
+	margin-top: 1%;
+}
+#row27{
+	height: 10%;
+}
+#btn{
+	margin-left: 42%;
+	margin-top: 0.7%;
+}

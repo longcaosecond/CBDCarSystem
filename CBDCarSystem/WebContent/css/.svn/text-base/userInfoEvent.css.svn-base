@@ -1,0 +1,78 @@
+@CHARSET "UTF-8";
+#row11{
+	height: 50%;
+	margin: 0px;
+	padding: 0px;
+}
+#row12{
+	height: 50%;
+}
+#row111{
+	height: 25%;
+}
+#row112{
+	height: 25%;
+}
+#row113{
+	height: 25%;
+}
+#row114{
+	height: 25%;
+}
+#biaoti{
+	font-size: 28px;
+	font-weight: 500;
+	margin-left: 40%;
+	margin-top: 1.5%;
+}
+#nei11{
+	height: 100%;
+}
+#nei12{
+	height: 100%;
+}
+#nei22{
+	height: 100%;
+}
+#nei21{
+	height: 100%;
+}
+#nei31{
+	height: 100%;
+}
+.info{
+	font-size:20px;
+	margin-left: 20%;
+	margin-top: 4%;
+}
+.event{
+	font-size:20px;
+}
+#row21{
+	height: 20%;
+}
+#row22{
+	height: 60%;
+}
+#row23{
+	height: 20%;
+}
+#tousu{
+	font-size: 20px;
+	margin-left: 12%;
+	margin-top: 1%;
+}
+#btn{
+	width: 8%;
+	margin-left: 45%;
+	margin-top: 0.7%;
+}
+#neirong{
+	margin-left: 13%;
+	margin-top: 1%;
+}
+#xuqiu{
+	margin-left: 18%;
+	margin-top: 2%;
+}
+

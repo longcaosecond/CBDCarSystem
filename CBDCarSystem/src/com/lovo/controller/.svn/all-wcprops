@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/controller
+END
+CompanyCarController.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/controller/CompanyCarController.java
+END
+ContractController.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/controller/ContractController.java
+END
+ParkController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/controller/ParkController.java
+END
+UserController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/controller/UserController.java
+END
+LandLordController.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/controller/LandLordController.java
+END
+EnterPriceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/controller/EnterPriceController.java
+END
+YanZhengMaController.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/controller/YanZhengMaController.java
+END
+DealController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/controller/DealController.java
+END
+OutContractController.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/controller/OutContractController.java
+END
+ComplaintController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/controller/ComplaintController.java
+END
+RentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/controller/RentController.java
+END
+WantController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/controller/WantController.java
+END
+ManagerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/controller/ManagerController.java
+END

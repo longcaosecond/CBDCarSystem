@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/bean
+END
+Enterprise.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/bean/Enterprise.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/bean/Log.java
+END
+Deal.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/bean/Deal.java
+END
+OutContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/bean/OutContract.java
+END
+Complaint.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/bean/Complaint.java
+END
+Admin.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/bean/Admin.java
+END
+Rent.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/bean/Rent.java
+END
+Want.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/bean/Want.java
+END
+Manager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/bean/Manager.java
+END
+Power.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/bean/Power.java
+END
+Contract.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/bean/Contract.java
+END
+Park.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/bean/Park.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CBDCarSystem_0824/!svn/ver/2/trunk/CBDCarSystem/src/com/lovo/bean/User.java
+END
